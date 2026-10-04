@@ -39,7 +39,6 @@ apis:
   - name: Mozilla http scanner
     description: "Mozilla observatory http scanner"
     humanURL: https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md
-    baseURL: https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md
     tags:
       - Security
     properties:
